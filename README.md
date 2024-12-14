@@ -1,3 +1,5 @@
+![Screenshot 2024-12-14 110926](https://github.com/user-attachments/assets/e9c4c87e-58f2-4f08-86c2-8e9ef88fa523)
+![Screenshot 2024-12-14 110955](https://github.com/user-attachments/assets/5de2fc28-872d-47eb-9e27-2d0661706957)
 # Communication System for Pilot and Air Traffic Controller (ATC)
 
 This Python-based communication system simulates the interaction between a pilot and an Air Traffic Controller (ATC) during the approach phase of an airplane landing.
